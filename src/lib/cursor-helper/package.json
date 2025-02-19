@@ -1,0 +1,13 @@
+{
+  "name": "cursor-helper",
+  "version": "1.0.0",
+  "description": "Local server to help send text to Cursor IDE",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "cors": "^2.8.5"
+  }
+} 
